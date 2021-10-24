@@ -9,7 +9,7 @@ public class VaccineApp {
     static String your_userid = null;
     static String your_password = null;
     //The url to use for DB2
-    static String url = "jdbc:db2://winter2021-comp421.cs.mcgill.ca:50000/cs421";
+    static String url = "___";
 
     public static void main (String[] args) throws SQLException {
 
